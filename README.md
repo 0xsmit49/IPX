@@ -47,7 +47,8 @@ We leverage:
 ##  **How It Works (Workflow)**
 
 
-```
+```mermaid
+
 graph TD
   subgraph User Interaction
     A1[User Wallet ]
